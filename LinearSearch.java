@@ -9,7 +9,7 @@ public class LinearSearch {
 		Scanner sc =new Scanner(System.in);
 		System.out.print("enter the element to search:");
 		int n=sc.nextInt();
-		int isFound=0;
+		int isFound=0;//
 		
 			for (int i = 0; i < list.length; i++) 
 			{
